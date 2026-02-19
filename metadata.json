@@ -1,0 +1,5 @@
+{
+  "name": "What's for Dinner?",
+  "description": "Get dinner ideas based on the ingredients you have or a picture of your fridge.",
+  "requestFramePermissions": []
+}
